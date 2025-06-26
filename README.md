@@ -32,6 +32,6 @@ This task involves applying **Linear Regression** to the Housing dataset to pred
 - **NumPy** 
 - **Matplotlib & Seaborn** 
 - **Scikit-learn** 
-- **Google Colab** –
+- **Google Colab** 
 
 ---
